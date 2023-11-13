@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+24 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=+24 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=U3-1
+Removed Pin From Net: NetName=+24 Pin=U3-3
+Removed Pin From Net: NetName=+24 Pin=U3-5
+Removed Member From Class: ClassName=Sheet3 Member=C8
+Removed Member From Class: ClassName=Sheet3 Member=C9
+Removed Member From Class: ClassName=Sheet3 Member=C10
+Removed Member From Class: ClassName=Sheet3 Member=D4
+Removed Member From Class: ClassName=Sheet3 Member=L2
+Removed Member From Class: ClassName=Sheet3 Member=R6
+Removed Member From Class: ClassName=Sheet3 Member=R7
+Removed Member From Class: ClassName=Sheet3 Member=R8
+Removed Member From Class: ClassName=Sheet3 Member=U3
+Change Net Color : Old Net Color=RGB(191, 0, 0) New Net Color=Default
+Change Net Color : Old Net Color=Navy New Net Color=Default

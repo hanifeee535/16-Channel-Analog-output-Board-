@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=+24/36 Pin=J3-1
+Added Pin To Net: NetName=+24/36 Pin=U6-8
+Added Pin To Net: NetName=+24/36 Pin=U7-8
+Added Pin To Net: NetName=+24/36 Pin=U8-8
+Added Pin To Net: NetName=+24/36 Pin=U9-8
+Added Pin To Net: NetName=+24/36 Pin=U10-8
+Added Pin To Net: NetName=+24/36 Pin=U11-8
+Added Pin To Net: NetName=+24/36 Pin=U12-8
+Added Pin To Net: NetName=+24/36 Pin=U13-8
+Change Net Name : Old Net Name=+24/36 New Net Name=+24
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Added Pin To Net: NetName=+24/36 Pin=J3-1
+Added Net: Name=+24/36
